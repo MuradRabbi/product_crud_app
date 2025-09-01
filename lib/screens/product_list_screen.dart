@@ -1,6 +1,6 @@
 import 'package:api_crud_project/api_services.dart';
 import 'package:api_crud_project/model_class/product_model.dart';
-import 'package:api_crud_project/screens/add_product_screen.dart';
+import 'package:api_crud_project/screens/add_edit_product_screen.dart';
 import 'package:flutter/material.dart';
 
 
